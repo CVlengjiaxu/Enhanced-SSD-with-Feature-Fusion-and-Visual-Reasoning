@@ -1,2 +1,3 @@
 # Enhanced-SSD-with-Feature-Fusion-and-Visual-Reasoning
-After the paper is accepted, the code will be upload. You should just be waiting patiently!
+First, you should get original SSD code from https://github.com/balancap/SSD-Tensorflow. And then, replace the 
+ssd_vgg_300.py and add the tensor_resize.py to the nets file.
